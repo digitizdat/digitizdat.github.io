@@ -1,2 +1,4 @@
-# digitizdat.github.io
-GitHub Pages site
+randomhuman.org
+===============
+
+Front-end for randomhuman.org
